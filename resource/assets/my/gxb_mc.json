@@ -1,0 +1,56 @@
+{
+    "file": "gxb_tex.png",
+    "res": {
+        "newAnimation_0": {
+            "x": 1,
+            "y": 1,
+            "w": 406,
+            "h": 458
+        },
+        "newAnimation_1": {
+            "x": 1,
+            "y": 461,
+            "w": 406,
+            "h": 458
+        },
+        "newAnimation_2": {
+            "x": 409,
+            "y": 1,
+            "w": 406,
+            "h": 458
+        }
+    },
+    "mc": {
+        "gxb": {
+            "frameRate": 24,
+            "events": [],
+            "frames": [
+                {
+                    "y": -229,
+                    "res": "newAnimation_0",
+                    "duration": 20,
+                    "x": -203
+                },
+                {
+                    "y": -229,
+                    "res": "newAnimation_1",
+                    "duration": 20,
+                    "x": -203
+                },
+                {
+                    "y": -229,
+                    "res": "newAnimation_2",
+                    "duration": 20,
+                    "x": -203
+                }
+            ],
+            "labels": [
+                {
+                    "end": 3,
+                    "name": "newAnimation",
+                    "frame": 1
+                }
+            ]
+        }
+    }
+}

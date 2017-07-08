@@ -1,0 +1,23 @@
+[
+    {
+        "name": "ftp-170317161008",
+        "host": "139.196.17.15",
+        "user": "AdminXbx",
+        "password": "Xbx2017",
+        "port": 21,
+        "protocol": "ftp",
+        "remotePath": "",
+        "passive": false,
+        "debug": false,
+        "privateKeyPath": null,
+        "ignoreDir": [
+            ".out/",
+            ".git/"
+        ],
+        "ignoreFileSuffix": [
+            "diff"
+        ],
+        "diffFile": "ftpdiff-1489738249124.diff",
+        "usediffFile": true
+    }
+]

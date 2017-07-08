@@ -1,0 +1,26 @@
+{"mc":{
+	"watering":{
+		"frameRate":24,
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+				"duration": 5,
+			"res":"B2B08B92",
+			"x":0,
+			"y":0
+			},
+			{
+				"duration": 5,
+			"res":"25EEBB0E",
+			"x":0,
+			"y":0
+			}
+			]
+}},
+	"res":{
+		"B2B08B92":{"x":1,"y":1,"w":649,"h":531},
+		"25EEBB0E":{"x":652,"y":1,"w":649,"h":508}
+	}}
